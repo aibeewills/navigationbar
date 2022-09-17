@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+li{
+    color: rgba(0, 0, 0, 0.432);
+}
+.agency{
+    font-weight: 400;
+    background-color: white;
+}
+.design{
+    font-weight: 800;
+    background-color: white;
+}
+.navbar{
+    display: flex;
+    justify-content: end;
+    background-color: black;
+    padding: 15px;
+    background-color: white;
+}
+.design{
+    margin-right: auto;
+    margin-left: 100px;
+}
+.about{
+    margin-right: 40px;
+    color: rgba(0, 0, 0, 0.226);
+    font-size: small;
+}
+.contact{
+    margin-right: 100px;
+}
+.image{
+    width: 100%;
+    height: 600px;
+    /*position:relative; */
+}
+.middle-box{
+    position: absolute;
+    background-color: rgba(77, 143, 132, 0.411);
+    height: 200px;
+    width: 600px;
+    top: 240px;
+    color: white;
+    line-height: 2;
+}
+.bend{
+    color: white;
+    background-color:rgba(56, 138, 111, 0.719);
+    border: none;
+    padding: 5px 25px 5px 25px;
+}
+.end{
+    text-align: center;
+    margin-top: 18px;
+    line-height: 2;
+}
+.parent{
+    color: rgba(0, 0, 0, 0.714);
+    text-align: center;
+}
+.pin{
+    font-size: small;
+    margin: 10px 30px 10px 80px;
+}
+h4{
+    margin: 10px 30px 10px 80px;
+    font-size: medium;
+}
+.arrow{
+    color: red;
+    position: absolute;
+    top: 300px;
+    right: 10px;
+}
+.middle-box2{
+    position: absolute;
+    background-color: rgba(77, 143, 132, 0.411);
+    height: 200px;
+    width: 600px;
+    top: 240px;
+    color: white;
+    line-height: 2;
+}
